@@ -1,0 +1,7 @@
+http://e1479687.webdev.cmaisonneuve.qc.ca/TP2_prog_anim_iii/
+
+/**
+ *COPYRIGHT ET SOURCES DES MÉDIAS
+ *Toutes images et sprites ont été fait par Linna Lim
+ *Tous les sons ont été pris sur le site https://www.freesound.org/, donc libre de droit
+ */
